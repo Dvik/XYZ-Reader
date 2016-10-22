@@ -1,0 +1,7 @@
+#Sat Oct 22 06:11:17 IST 2016
+base.0=C\:\\Users\\Divya\\Desktop\\Nanodegree\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c7b691daa1eff057831fd896b40a06fd9217a89c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Divya\\Desktop\\Nanodegree\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_45a4f82ff483f55a10b22a0c16b05a95249ddbdc\\classes.dex
+base.1=C\:\\Users\\Divya\\Desktop\\Nanodegree\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_45a4f82ff483f55a10b22a0c16b05a95249ddbdc
+file.0=C\:\\Users\\Divya\\Desktop\\Nanodegree\\xyzreader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c7b691daa1eff057831fd896b40a06fd9217a89c\\classes.dex
